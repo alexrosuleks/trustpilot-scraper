@@ -1,0 +1,21 @@
+{
+  "startUrls": [
+    "https://www.trustpilot.com/review/www.bankfive.com"
+  ],
+  "maxReviews": 10,
+  "sortBy": "recent",
+  "sampling": "recent",
+  "scrapeAllReviews": true,
+  "filterDateRange": "all",
+  "filterVerifiedOnly": false,
+  "filterRepliesOnly": false,
+  "strictNameMatch": false,
+  "includeCompanyDetails": false,
+  "includeStats": false,
+  "proxyConfiguration": {
+    "useScrapelyProxy": true,
+    "scrapelyProxyGroups": [
+      "DATACENTER"
+    ]
+  }
+}

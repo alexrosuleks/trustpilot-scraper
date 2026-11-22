@@ -1,0 +1,20 @@
+{
+  "name": "trustpilot-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Trustpilot Reviews Scraper: Scrape Trustpilot reviews for any company: star rating, title, text, date, country, verification and company reply. No login needed. Export to JSON or CSV.",
+  "main": "example.js",
+  "scripts": {
+    "start": "node example.js"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraping",
+    "scrapely",
+    "trustpilot"
+  ],
+  "dependencies": {
+    "scrapely-client": "^2.25.15"
+  },
+  "license": "MIT"
+}
